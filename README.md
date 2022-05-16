@@ -15,5 +15,5 @@ I am a tech hobbyist with a great passion for technology. I am a Full stack PHP 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/noamanahmed/count.svg" />
 </p>

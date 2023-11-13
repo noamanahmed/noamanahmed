@@ -5,7 +5,13 @@
 A passion driven creature with love for technology
 
 ### My Skill Set
-I am a tech hobbyist with a great passion for technology. I am a Full stack PHP Developer with 5 years of experience.I am well versed in stacks like Laravel,Vue.js,WordPress,Lumen and CodeIgniter.I also have great expereince in Linux and DevOps as I have deployed projects over AWS,Azure and GCP. My biggest strength is that I am a creative thinker with a strong problem solving aptitude and a thirst for learning new technologies which allows me to quickly adjust to any working environment
+Hello! With over 6 years of experience, I am a passionate tech enthusiast and a seasoned Full Stack PHP Developer. I have honed my skills in various stacks including Laravel, Vue.js, WordPress, Lumen, and CodeIgniter. Alongside my expertise in web development, I have gained significant proficiency in Linux and DevOps, having successfully deployed projects on AWS, Azure, and GCP.
+
+My biggest strength lies in my creative thinking and strong problem-solving aptitude, which allows me to tackle complex challenges with ease. I have a deep thirst for learning new technologies, enabling me to adapt swiftly to any working environment. Throughout my career, I have consistently delivered high-quality solutions by implementing new features, optimizing SQL queries, and integrating third-party services like DocuSign.
+
+Additionally, I am well-versed in conducting comprehensive code reviews and guiding fellow developers to maintain top-notch code standards. With a focus on continuous improvement, I prioritize code quality and strive to deliver scalable and efficient applications.
+
+I am excited about new opportunities and eager to contribute my skills and experience to build remarkable solutions. Let's embark on an incredible journey together!"
 
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/NoamanAhmed99) 
